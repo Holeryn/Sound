@@ -8,9 +8,12 @@ tlink sound.obj + exelib.obj
 
 # Oppure
 Usa il make.bat così:
-Make
+
+$ Make
+
 oppure
-Make.bat
+
+$ Make.bat
 
 # Dove posso trovare nasm,tlink e dosboxx
 
