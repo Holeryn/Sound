@@ -1,21 +1,22 @@
 # Sound
-# Eseguilo in ambiene DOS
-Fidati di me eseguilo
+# Run this software into a Dos environment
+a program that generates the imperial march through the motherboard buzzer
 
+# Compile
 nasm -f obj sound.asm
 
 tlink sound.obj + exelib.obj
 
-# Oppure
-Usa il make.bat così:
+# Or
+Use the make.bat:
 
 $ Make
 
-oppure
+Or
 
 $ Make.bat
 
-# Dove posso trovare nasm,tlink e dosboxx
+# Where can I find nasm,tlink and dosboxx ?
 
 nasm  : http://www.mediafire.com/file/c1z3xh1v9ni6wz8/nasm.exe/file
 
