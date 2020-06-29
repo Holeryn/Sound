@@ -22,4 +22,6 @@ nasm  : http://www.mediafire.com/file/c1z3xh1v9ni6wz8/nasm.exe/file
 
 tlink : http://www.mediafire.com/file/f9cshgmlqf6m0yt/TLINK.EXE/file
 
+exelib : http://www.ramsite.altervista.org/comprogr/downloads/downloads.html
+
 dosbox : https://www.dosbox.com/download.php?main=1
