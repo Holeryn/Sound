@@ -16,7 +16,7 @@ Or
 
 $ Make.bat
 
-# Where can I find nasm,tlink and dosboxx ?
+# Where can I find nasm,tlink and dosbox ?
 
 nasm  : http://www.mediafire.com/file/c1z3xh1v9ni6wz8/nasm.exe/file
 
